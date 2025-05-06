@@ -3,4 +3,4 @@
 - Sou formada como Técnico de Informática;
 - Tenho familiaridade com as linguagens C#, Python e Java;
 - Atualmente estou fazendo um curso na Alura de Ciência de Dados;
-- Meus interesses na área é DevOps, CyberSecurity e Dados.
+- Meus interesses na área é Desenvolvimento de Software, DevOps, CyberSecurity e Dados.
